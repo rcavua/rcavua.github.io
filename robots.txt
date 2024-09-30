@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rcavua.github.io/eqF/sitemap.eqF.gz
